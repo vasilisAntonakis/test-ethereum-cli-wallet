@@ -1,0 +1,19 @@
+{
+  "name": "test-ethereum-cli-wallet",
+  "version": "1.0.0",
+  "description": "this is a test ethereum CLI wallet",
+  "main": "src/main-menu.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "v.antonakis",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^3.0.17",
+    "etherscan-api": "^8.0.4",
+    "fs-extra": "^6.0.1",
+    "html-pdf": "^2.2.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
